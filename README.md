@@ -23,11 +23,11 @@
 
 ### 백엔드
 
-|    지종권      |          조현수         |          박경림         |                                                                                                             
-| :---: | :---: | :---: |
-|   <img width="400px" src="https://github.com/jijongkwon.png" />    |   <img width="400px" src="https://github.com/HyunSoo730.png" />    |   <img width="400px" src="https://github.com/g16rim.png" />    |
-|   [@jijongkwon](https://github.com/jijongkwon)   |    [@HyunSoo730](https://github.com/HyunSoo730)  |    [@g16rim](https://github.com/g16rim)  |
-| SSAFY | SSAFY | SSAFY |
+|    지종권      |          조현수         |          박경림         |          강민서         |                                                                                                             
+| :---: | :---: | :---: | :---: |
+|   <img width="300px" src="https://github.com/jijongkwon.png" />    |   <img width="300px" src="https://github.com/HyunSoo730.png" />    |   <img width="300px" src="https://github.com/g16rim.png" />    |   <img width="300px" src="https://github.com/cjo5929.png" />    |
+|   [@jijongkwon](https://github.com/jijongkwon)   |    [@HyunSoo730](https://github.com/HyunSoo730)  |    [@g16rim](https://github.com/g16rim)  |    [@cjo5929](https://github.com/cjo5929)  |
+| SSAFY <br> 👨‍💻 Backend <br> 🛠 Infra | SSAFY <br> 👨‍💻 Backend | SSAFY <br> 👨‍💻 Backend | SSAFY <br> 👨‍💻 Backend <br> 🤖 AI |
 
 ### 프론트엔드
 
@@ -35,16 +35,7 @@
 | :---: | :---: | 
 |   <img width="300px" src="https://github.com/LEEJW1953.png" />    |   <img width="300px" src="https://github.com/LineHero.png" />    |
 |   [@LEEJW1953](https://github.com/LEEJW1953)   |    [@LineHero](https://github.com/LineHero)  |
-| SSAFY | SSAFY |
-
-### 인프라
-
-|    지종권      |                                                                                                             
-| :---: |
-|   <img width="300px" src="https://github.com/jijongkwon.png" />    |
-|   [@jijongkwon](https://github.com/jijongkwon)   |
-| SSAFY |
-
+| SSAFY <br> 🎨 Frontend | SSAFY <br> 🎨 Frontend |
 
 ## 🛠️ 기술 스택
 <details>
