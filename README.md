@@ -46,6 +46,71 @@
 | SSAFY |
 
 
+## 🛠️ 기술 스택
+<details>
+<summary>
+<h3 style="display: inline-block; color: #6DB33F;">💻 기술 스택 자세히 보기</h3>
+</summary>
+<div markdown="1">
+
+### 💻 Language
+![Java](https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🏗️ Framework & Library
+#### 🔙 Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.3.1-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Validation](https://img.shields.io/badge/Spring_Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+#### 🖼️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### ⚙️ Config
+#### 🖥️ Frontend
+![Node.js](https://img.shields.io/badge/Node.js_20-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_1.21.4--alpine-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### 🔧 Backend
+![Gradle](https://img.shields.io/badge/Gradle_7.6.1-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![OpenJDK](https://img.shields.io/badge/OpenJDK_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🤝 Communication
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)
+
+### 🗄️ Database
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚀 DevOps
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎨 Etc
+![Llama 2](https://img.shields.io/badge/Llama_2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+
+</div>
+</details>
+
+<br><br>
+
 ## 💪 주요 기능
 
 ### ⭐️ AI 차용증 자동 생성 및 관리
@@ -87,6 +152,66 @@ LLM 모델을 기반으로 사용자 간 대화 컨텍스트를 분석하고 법
 - **자동 알림**: 상환 기일 및 독촉 자동 알림
 - **멀티 채널**: 앱 내 알림 및 카카오톡 알림 동시 지원
 - **알림 설정**: 사용자(채권자) 맞춤형 알림 설정 기능
+
+## 📱 화면 구성
+
+<table>
+  <tr>
+    <td align="center" colspan="2"><b>💬 AI 기반 차용증 자동 생성</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./asset/차용증배속.gif" width="820px">
+      <br>
+      <sub>대화 기반 실시간 차용증 작성 과정</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>🏠 메인 화면</b></td>
+    <td align="center"><b>📊 거래 내역</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./asset/login.gif" width="400px">
+      <br>
+      <sub>직관적인 대시보드 화면</sub>
+    </td>
+    <td align="center">
+      <img src="./asset/mypage.gif" width="400px">
+      <br>
+      <sub>상세한 거래 기록 관리</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>📝 거래 목록</b></td>
+    <td align="center"><b>🔐 계좌 인증</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./asset/main.png" width="400px">
+      <br>
+      <sub>진행 중인 모든 거래 현황 조회</sub>
+    </td>
+    <td align="center">
+      <img src="./asset/cert.png" width="400px">
+      <br>
+      <sub>1원 인증을 통한 안전한 계좌 확인</sub>
+    </td>
+  </tr>
+</table>
+
+### 💡 주요 특징
+
+- **실시간 차용증 작성**: AI가 대화를 분석하여 자동으로 차용증을 작성
+- **직관적인 인터페이스**: 사용자 친화적인 UI/UX 설계
+- **안전한 인증 시스템**: 1원 계좌 인증을 통한 신원 확인
+- **상세한 거래 관리**: 모든 거래 내역을 한눈에 확인
 
 ## 🔧 내 역할(조현수) : 백엔드 시스템 구현 (거래 프로세스)
 
@@ -166,32 +291,9 @@ Solution:
 - 차용증 상태 관리 로직 고도화
 - 실시간 모니터링 시스템 도입
 
---
-## 🛠️ 기술 스택
 
-### Backend
-![Java](https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.3.1-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Validation](https://img.shields.io/badge/Spring_Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Database
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Tools & Communication
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
