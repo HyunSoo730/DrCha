@@ -161,7 +161,7 @@ LLM 모델을 기반으로 사용자 간 대화 컨텍스트를 분석하고 법
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="./asset/차용증배속.gif" width="820px">
+      <img src="./asset/차용증배속.gif" width="700px">
       <br>
       <sub>대화 기반 실시간 차용증 작성 과정</sub>
     </td>
@@ -175,12 +175,12 @@ LLM 모델을 기반으로 사용자 간 대화 컨텍스트를 분석하고 법
   </tr>
   <tr>
     <td align="center">
-      <img src="./asset/login.gif" width="400px">
+      <img src="./asset/login.gif" width="300px">
       <br>
       <sub>직관적인 대시보드 화면</sub>
     </td>
     <td align="center">
-      <img src="./asset/mypage.gif" width="400px">
+      <img src="./asset/mypage.gif" width="300px">
       <br>
       <sub>상세한 거래 기록 관리</sub>
     </td>
@@ -194,12 +194,12 @@ LLM 모델을 기반으로 사용자 간 대화 컨텍스트를 분석하고 법
   </tr>
   <tr>
     <td align="center">
-      <img src="./asset/main.png" width="400px">
+      <img src="./asset/main.png" width="300px">
       <br>
       <sub>진행 중인 모든 거래 현황 조회</sub>
     </td>
     <td align="center">
-      <img src="./asset/cert.png" width="400px">
+      <img src="./asset/cert.png" width="300px">
       <br>
       <sub>1원 인증을 통한 안전한 계좌 확인</sub>
     </td>
